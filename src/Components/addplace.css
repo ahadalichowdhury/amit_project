@@ -1,0 +1,359 @@
+.Addplace {
+  color: #1a3860;
+  text-align: center;
+  font-weight: bold;
+}
+
+.addplaceContainer {
+  align-items: center;
+  justify-content: center;
+  /* margin-top: 50px; */
+}
+
+.addplaceform {
+  align-items: center;
+}
+
+.visitingPlaceLabel {
+  color: gray;
+  font-size: 15px;
+  font-weight: bold;
+  /* margin-top: 10px; */
+  /* margin-bottom: 10px; */
+  text-align: center;
+  margin-left: 40px;
+}
+
+.visitingPlaceInput {
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding: 12px 20px;
+
+  box-sizing: border-box;
+  border: none;
+  background-color: bisque;
+  color: black;
+  border-radius: 20px;
+}
+
+.label2 {
+  color: gray;
+  font-size: 15px;
+  font-weight: bold;
+  /* margin-top: 10px; */
+  /* margin-bottom: 10px; */
+  text-align: center;
+  margin-left: 40px;
+}
+
+.input2 {
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding: 12px 20px;
+
+  box-sizing: border-box;
+  border: none;
+  background-color: bisque;
+  color: black;
+  border-radius: 20px;
+}
+
+.label3 {
+  color: gray;
+  font-size: 15px;
+  font-weight: bold;
+  /* margin-top: 10px; */
+  /* margin-bottom: 10px; */
+  text-align: center;
+  margin-left: 40px;
+}
+
+.selectplace {
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding: 12px 10px;
+
+  box-sizing: border-box;
+  border: none;
+  background-color: bisque;
+  color: white;
+  border-radius: 20px;
+}
+
+.option {
+  background-color: gray;
+  color: white;
+}
+
+.label4 {
+  color: gray;
+  font-size: 15px;
+  font-weight: bold;
+  /* margin-top: 10px; */
+  /* margin-bottom: 10px; */
+  text-align: center;
+  margin-left: 40px;
+}
+
+.imginput {
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding: 12px 10px;
+
+  box-sizing: border-box;
+  border: none;
+  background-color: bisque;
+  color: gray;
+  border-radius: 20px;
+}
+
+.label5 {
+  color: gray;
+  font-size: 15px;
+  font-weight: bold;
+  /* margin-top: 10px; */
+  /* margin-bottom: 10px; */
+  text-align: center;
+  margin-left: 40px;
+}
+.weblink {
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding: 12px 10px;
+
+  box-sizing: border-box;
+  border: none;
+  background-color: bisque;
+  color: black;
+  border-radius: 20px;
+}
+
+.label6 {
+  color: gray;
+  font-size: 15px;
+  font-weight: bold;
+  /* margin-top: 10px; */
+  /* margin-bottom: 10px; */
+  text-align: center;
+  margin-left: 40px;
+}
+
+.input6 {
+  width: 80%;
+  margin-left: 10%;
+  /* margin-right: 10%; */
+  padding: 12px 10px;
+
+  box-sizing: border-box;
+  border: none;
+  background-color: bisque;
+  color: black;
+  border-radius: 20px;
+}
+
+.label7 {
+  color: gray;
+  font-size: 15px;
+  font-weight: bold;
+  /* margin-top: 10px; */
+  /* margin-bottom: 10px; */
+  text-align: center;
+  margin-left: 40px;
+}
+
+.maplink {
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding: 12px 10px;
+
+  box-sizing: border-box;
+  border: none;
+  background-color: bisque;
+  color: black;
+  border-radius: 20px;
+}
+
+.label8 {
+  color: gray;
+  font-size: 15px;
+  font-weight: bold;
+  /* margin-top: 10px; */
+  /* margin-bottom: 10px; */
+  text-align: center;
+  margin-left: 40px;
+}
+
+.input8 {
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding: 12px 10px;
+
+  box-sizing: border-box;
+  border: none;
+  background-color: bisque;
+  color: black;
+  border-radius: 20px;
+}
+
+.label9 {
+  color: gray;
+  font-size: 15px;
+  font-weight: bold;
+  /* margin-top: 10px; */
+  /* margin-bottom: 10px; */
+  text-align: center;
+  margin-left: 40px;
+}
+
+.input9 {
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding: 12px 10px;
+
+  box-sizing: border-box;
+  border: none;
+  background-color: bisque;
+  border-radius: 20px;
+  color: black;
+}
+
+.informationSubmit {
+  /* align-items: center;
+    margin-right: 50%;
+    background-color: brown; */
+
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding: 12px 10px;
+
+  box-sizing: border-box;
+  border: none;
+  background-color: brown;
+  color: white;
+  border-radius: 20px;
+}
+.filterPlace {
+  background-color: bisque;
+  padding: 10px;
+  color: black;
+  font-weight: 400;
+}
+
+.filterplacebox {
+  display: flex;
+  flex-direction: row;
+  /* border: 1px solid red; */
+  /* flex: 0.7; */
+  /* padding-left: 15px; */
+  padding-top: 10px;
+}
+
+@media (max-width: 540px) {
+  .filterplacebox {
+    /* width: 100%; */
+    /* padding-left: 10px;
+      padding-top: 5px; */
+  }
+}
+.filterPlace {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.filterplacebox h6 {
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.filterplacebox span {
+  cursor: pointer;
+  margin: 15px 0px;
+  font-size: 14px;
+}
+
+.p_catagory {
+  color: #e00a02;
+  font-weight: bold;
+  margin-left: 20px;
+  text-shadow: 20px;
+}
+
+.catagory_Place {
+  margin-left: 0;
+}
+
+/* #lake{
+ border-radius: 5px;
+ padding-inline-end: 15px;
+  border-radius: 10px;
+
+  background-color: cornflowerblue;
+  text-align: center;
+  color: aliceblue;
+  font-weight: bold;
+  }
+
+  #zoo{
+    border-radius: 5px;
+    
+    padding: 5px;
+    text-align: center;
+    margin-left: 10px;
+    background-color: cornflowerblue;
+    color: aliceblue;
+    font-weight: bold;
+  }
+
+  #sea_beach{
+    border-radius: 5px;
+    
+    padding: 5px;
+    text-align: center;
+    margin-left: 10px;
+    background-color: cornflowerblue;
+    color: aliceblue;
+    font-weight: bold;
+  }
+
+  #old_places{
+    border-radius: 5px;
+    
+    padding: 5px;
+    text-align: center;
+    margin-left: 10px;
+    background-color: cornflowerblue;
+    color: aliceblue;
+    font-weight: bold;
+  }
+
+  #forest{
+    border-radius: 5px;
+    padding: 5px;
+    text-align: center;
+    margin-left: 10px;
+    background-color: cornflowerblue;
+    color: aliceblue;
+    font-weight: bold;
+  }
+
+  #Park{
+    border-radius: 5px;
+    padding: 5px;
+    text-align: center;
+    margin-left: 10px;
+    background-color: cornflowerblue;
+    color: aliceblue;
+    font-weight: bold;
+   
+  } */

@@ -1,0 +1,120 @@
+.signupcontainer1{
+    /* background-color:green; */
+    width: 100%;
+    height: 100%;
+    /* background-color: #F5F5F5; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Roboto', sans-serif;
+    /* margin-top:10%; */
+}
+
+.signupheading{
+
+    font-size: 30px;
+    font-weight: bold;
+    color: #1a3860;
+    margin-bottom: 10px;
+    text-align: center;
+    text-shadow: blue;
+}
+
+.signupmainform{
+    height: 100%;
+    width: 100%;
+    
+}
+
+.fullnameLabel{
+
+    color: gray;
+    font-weight: bold;
+    display: block;
+    margin-left: 40px;
+    font-size: 15px;
+}
+
+.fullnameInput{
+
+   
+    padding: 12px 20px;
+    margin: 8px 0;
+    /* box-sizing: border-box; */
+    border: none;
+    background-color:#8f8e8e83;
+    color: black;
+    border-radius: 20px;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
+.emailLabel{
+
+    color: gray;
+    font-weight: bold;
+    display: block;
+   
+    margin-left: 40px;
+    font-size: 15px;
+}
+
+.emailInput{
+  
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    background-color:#8f8e8e83;
+    color: black;
+    border-radius: 20px;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.passwordLabel{
+    color: gray;
+
+    display: block;
+    /* text-align: center; */
+    margin-left: 40px;
+    font-size: 15px;
+    font-weight: bold;
+
+}
+
+.passwordInput{
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    background-color:#8f8e8e83;
+    color: black;
+    border-radius: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+
+   
+}
+
+
+.signupButton{
+    background-color: rgba(255, 166, 0, 0.675);
+  
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+   
+    color: white;
+    border-radius: 20px;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
